@@ -1,0 +1,15 @@
+.header {
+  background-color: #b9c1ce;
+  padding-left: 30px;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header-text {
+    cursor: pointer;
+}

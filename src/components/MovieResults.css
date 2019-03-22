@@ -1,0 +1,12 @@
+.show-more-button {
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    margin: 20px;
+  }
+
+  .button-wrapper {
+      text-align: center;
+  }
