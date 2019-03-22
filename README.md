@@ -1,4 +1,4 @@
-This app displays popular movies and allows you to view details about them as well as searches for movies.
+This app displays popular movies and allows you to view details about them. It also allows you to search for movie titles.
 
 To run the app:
 
